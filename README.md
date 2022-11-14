@@ -1,0 +1,2 @@
+# ThiefGriffin
+XIOTHIEFからアクセスデータを逐次受信して最後にファイル化するWindowsコンソールアプリケーションです
